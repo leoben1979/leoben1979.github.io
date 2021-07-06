@@ -1,0 +1,73 @@
+﻿@using DevStudio.Securitys;
+@using JiaYu.Models;
+@model IEnumerable<JiaYu.Models.ViewModel.UncloseViewModel>
+
+@{
+    ViewBag.Title = "會員訂單查詢";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<br />
+<br />
+<br />
+<br />
+<div class="col"></div>
+<div class="col"></div>
+<div style="width:100%; margin:0 auto" class="tablecontainer">
+    <table id="DatatableList" class="table table-bordered  display dt-responsive nowrap">
+        <thead>
+            <tr>
+                <th></th>
+                <th>訂單編號</th>
+                <th>訂單日期</th>
+                <th>訂單狀態</th>
+                <th>付款方式</th>
+                <th>運送方式</th>
+                <th>收件人</th>
+                <th>收件地址</th>
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+    <tr>
+
+        @* @Html.DisplayFor(modelItem => item.rowid); *@
+        <td>
+            @if(UserAccount.UserCode == 0){
+            <a class="popup" title="訂單明細" href="/User/OrderDetails/@item.rowid"><i class="fas fa-edit fa-2x"></i></a>
+            <a title="訂單退貨" href="/User/ReturnProduct/@item.rowid" onclick="return confirm('是否確定要退貨 ?')"><i class="fas fa-exchange-alt fa-2x"></i></a>
+            <a title="訂單取消" href="/User/CancelOrder/@item.rowid" onclick="return confirm('是否確定要取消訂單 ?')"><i class="fas fa-undo fa-2x"></i></a>
+            }
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.order_no)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.order_date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.status_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.payment_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.shipping_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.receive_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.receive_address)
+        </td>
+
+
+    </tr>
+
+        }
+    </table>
+</div>
+
+
+

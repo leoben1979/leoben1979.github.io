@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="JiaYuModelStoreContainer" CdmEntityContainer="JiaYuEntities">
+    <EntitySetMapping Name="Batch">
+      <EntityTypeMapping TypeName="JiaYuModel.Batch">
+        <MappingFragment StoreEntitySet="Batch">
+          <ScalarProperty Name="batch_id" ColumnName="batch_id" />
+          <ScalarProperty Name="pro_id" ColumnName="pro_id" />
+          <ScalarProperty Name="b_date" ColumnName="b_date" />
+          <ScalarProperty Name="price" ColumnName="price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ColorList">
+      <EntityTypeMapping TypeName="JiaYuModel.ColorList">
+        <MappingFragment StoreEntitySet="ColorList">
+          <ScalarProperty Name="color_no" ColumnName="color_no" />
+          <ScalarProperty Name="color_name" ColumnName="color_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DeliveryList">
+      <EntityTypeMapping TypeName="JiaYuModel.DeliveryList">
+        <MappingFragment StoreEntitySet="DeliveryList">
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="address_no" ColumnName="address_no" />
+          <ScalarProperty Name="del_name" ColumnName="del_name" />
+          <ScalarProperty Name="del_tel" ColumnName="del_tel" />
+          <ScalarProperty Name="del_address" ColumnName="del_address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Purchase">
+      <EntityTypeMapping TypeName="JiaYuModel.Purchase">
+        <MappingFragment StoreEntitySet="Purchase">
+          <ScalarProperty Name="pur_id" ColumnName="pur_id" />
+          <ScalarProperty Name="pro_id" ColumnName="pro_id" />
+          <ScalarProperty Name="pur_date" ColumnName="pur_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vender">
+      <EntityTypeMapping TypeName="JiaYuModel.Vender">
+        <MappingFragment StoreEntitySet="Vender">
+          <ScalarProperty Name="ven_id" ColumnName="ven_id" />
+          <ScalarProperty Name="ven_name" ColumnName="ven_name" />
+          <ScalarProperty Name="tax_id_number" ColumnName="tax_id_number" />
+          <ScalarProperty Name="ven_sort_name" ColumnName="ven_sort_name" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="tel" ColumnName="tel" />
+          <ScalarProperty Name="contact_person" ColumnName="contact_person" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Category">
+      <EntityTypeMapping TypeName="JiaYuModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="sort_no" ColumnName="sort_no" />
+          <ScalarProperty Name="ca_name" ColumnName="ca_name" />
+          <ScalarProperty Name="super_id" ColumnName="super_id" />
+          <ScalarProperty Name="cate_id" ColumnName="cate_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Member">
+      <EntityTypeMapping TypeName="JiaYuModel.Member">
+        <MappingFragment StoreEntitySet="Member">
+          <ScalarProperty Name="remark" ColumnName="remark" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="cellphone" ColumnName="cellphone" />
+          <ScalarProperty Name="telephone" ColumnName="telephone" />
+          <ScalarProperty Name="birthday" ColumnName="birthday" />
+          <ScalarProperty Name="sex" ColumnName="sex" />
+          <ScalarProperty Name="m_name" ColumnName="m_name" />
+          <ScalarProperty Name="id_number" ColumnName="id_number" />
+          <ScalarProperty Name="reg_date" ColumnName="reg_date" />
+          <ScalarProperty Name="verify" ColumnName="verify" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="passwd" ColumnName="passwd" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Manage">
+      <EntityTypeMapping TypeName="JiaYuModel.Manage">
+        <MappingFragment StoreEntitySet="Manage">
+          <ScalarProperty Name="m_name" ColumnName="m_name" />
+          <ScalarProperty Name="verify" ColumnName="verify" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="passwd" ColumnName="passwd" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ColorRelation">
+      <EntityTypeMapping TypeName="JiaYuModel.ColorRelation">
+        <MappingFragment StoreEntitySet="ColorRelation">
+          <ScalarProperty Name="pro_id" ColumnName="pro_id" />
+          <ScalarProperty Name="color_no" ColumnName="color_no" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Photo">
+      <EntityTypeMapping TypeName="JiaYuModel.Photo">
+        <MappingFragment StoreEntitySet="Photo">
+          <ScalarProperty Name="filename" ColumnName="filename" />
+          <ScalarProperty Name="pro_id" ColumnName="pro_id" />
+          <ScalarProperty Name="rowid" ColumnName="rowid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="JiaYuModel.Orders">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="order_validate" ColumnName="order_validate" />
+          <ScalarProperty Name="order_closed" ColumnName="order_closed" />
+          <ScalarProperty Name="order_guid" ColumnName="order_guid" />
+          <ScalarProperty Name="remark" ColumnName="remark" />
+          <ScalarProperty Name="totals" ColumnName="totals" />
+          <ScalarProperty Name="taxs" ColumnName="taxs" />
+          <ScalarProperty Name="amounts" ColumnName="amounts" />
+          <ScalarProperty Name="receive_address" ColumnName="receive_address" />
+          <ScalarProperty Name="receive_email" ColumnName="receive_email" />
+          <ScalarProperty Name="receive_name" ColumnName="receive_name" />
+          <ScalarProperty Name="shipping_no" ColumnName="shipping_no" />
+          <ScalarProperty Name="payment_no" ColumnName="payment_no" />
+          <ScalarProperty Name="user_no" ColumnName="user_no" />
+          <ScalarProperty Name="order_status" ColumnName="order_status" />
+          <ScalarProperty Name="order_date" ColumnName="order_date" />
+          <ScalarProperty Name="order_no" ColumnName="order_no" />
+          <ScalarProperty Name="rowid" ColumnName="rowid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrdersDetail">
+      <EntityTypeMapping TypeName="JiaYuModel.OrdersDetail">
+        <MappingFragment StoreEntitySet="OrdersDetail">
+          <ScalarProperty Name="remark" ColumnName="remark" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="product_spec" ColumnName="product_spec" />
+          <ScalarProperty Name="product_name" ColumnName="product_name" />
+          <ScalarProperty Name="product_no" ColumnName="product_no" />
+          <ScalarProperty Name="category_name" ColumnName="category_name" />
+          <ScalarProperty Name="vendor_no" ColumnName="vendor_no" />
+          <ScalarProperty Name="order_no" ColumnName="order_no" />
+          <ScalarProperty Name="rowid" ColumnName="rowid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Payments">
+      <EntityTypeMapping TypeName="JiaYuModel.Payments">
+        <MappingFragment StoreEntitySet="Payments">
+          <ScalarProperty Name="remark" ColumnName="remark" />
+          <ScalarProperty Name="mname" ColumnName="mname" />
+          <ScalarProperty Name="mno" ColumnName="mno" />
+          <ScalarProperty Name="rowid" ColumnName="rowid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shippings">
+      <EntityTypeMapping TypeName="JiaYuModel.Shippings">
+        <MappingFragment StoreEntitySet="Shippings">
+          <ScalarProperty Name="remark" ColumnName="remark" />
+          <ScalarProperty Name="mname" ColumnName="mname" />
+          <ScalarProperty Name="mno" ColumnName="mno" />
+          <ScalarProperty Name="rowid" ColumnName="rowid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Carts">
+      <EntityTypeMapping TypeName="JiaYuModel.Carts">
+        <MappingFragment StoreEntitySet="Carts">
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="lot_no" ColumnName="lot_no" />
+          <ScalarProperty Name="spec" ColumnName="spec" />
+          <ScalarProperty Name="create_time" ColumnName="create_time" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="pname" ColumnName="pname" />
+          <ScalarProperty Name="pro_id" ColumnName="pro_id" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="rowid" ColumnName="rowid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Product">
+      <EntityTypeMapping TypeName="JiaYuModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="remark" ColumnName="remark" />
+          <ScalarProperty Name="Browse_time" ColumnName="Browse_time" />
+          <ScalarProperty Name="spec" ColumnName="spec" />
+          <ScalarProperty Name="color" ColumnName="color" />
+          <ScalarProperty Name="memory" ColumnName="memory" />
+          <ScalarProperty Name="price_sale" ColumnName="price_sale" />
+          <ScalarProperty Name="is_sales" ColumnName="is_sales" />
+          <ScalarProperty Name="Is_hot" ColumnName="Is_hot" />
+          <ScalarProperty Name="Is_top" ColumnName="Is_top" />
+          <ScalarProperty Name="ven_id" ColumnName="ven_id" />
+          <ScalarProperty Name="categoryid" ColumnName="categoryid" />
+          <ScalarProperty Name="pname" ColumnName="pname" />
+          <ScalarProperty Name="pro_id" ColumnName="pro_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Status">
+      <EntityTypeMapping TypeName="JiaYuModel.Status">
+        <MappingFragment StoreEntitySet="Status">
+          <ScalarProperty Name="remark" ColumnName="remark" />
+          <ScalarProperty Name="mname" ColumnName="mname" />
+          <ScalarProperty Name="mno" ColumnName="mno" />
+          <ScalarProperty Name="rowid" ColumnName="rowid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

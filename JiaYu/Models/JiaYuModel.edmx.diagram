@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="33241ddcbf3d4f3baf2eeabe119280c2" Name="Diagram1">
+        <EntityTypeShape EntityType="JiaYuModel.Batch" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JiaYuModel.ColorList" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JiaYuModel.DeliveryList" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JiaYuModel.Purchase" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JiaYuModel.Vender" Width="1.5" PointX="8.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JiaYuModel.Category" Width="1.5" PointX="3.375" PointY="10.75" />
+        <EntityTypeShape EntityType="JiaYuModel.Member" Width="1.5" PointX="0.75" PointY="10.75" />
+        <EntityTypeShape EntityType="JiaYuModel.Manage" Width="1.5" PointX="5.375" PointY="10.75" />
+        <EntityTypeShape EntityType="JiaYuModel.ColorRelation" Width="1.5" PointX="3.375" PointY="3.75" />
+        <EntityTypeShape EntityType="JiaYuModel.Photo" Width="1.5" PointX="5.375" PointY="3.75" />
+        <EntityTypeShape EntityType="JiaYuModel.Orders" Width="1.5" PointX="9.75" PointY="10.75" />
+        <EntityTypeShape EntityType="JiaYuModel.OrdersDetail" Width="1.5" PointX="2.75" PointY="6.75" />
+        <EntityTypeShape EntityType="JiaYuModel.Payments" Width="1.5" PointX="4.75" PointY="6.75" />
+        <EntityTypeShape EntityType="JiaYuModel.Shippings" Width="1.5" PointX="11.375" PointY="0.75" />
+        <EntityTypeShape EntityType="JiaYuModel.Carts" Width="1.5" PointX="11.375" PointY="3.75" />
+        <EntityTypeShape EntityType="JiaYuModel.Product" Width="1.5" PointX="12.375" PointY="7.75" />
+        <EntityTypeShape EntityType="JiaYuModel.Status" Width="1.5" PointX="7.375" PointY="3.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "MessagePage";
+    Layout = "~/Views/Shared/_LayoutLite.cshtml";
+}
+
+<div class="container">
+    <div class="row margin-top-login">
+        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+            <div class="panel panel-default box-shadow">
+                <div class="panel-heading">
+                    <span class="text-primary">@ViewBag.MessageHeader</span>
+                    <span class="text-muted pull-right today" title="Today"></span>
+                </div>
+                <div class="panel-body">
+                    <h4>@ViewBag.MessageText</h4>
+                    <hr />
+                    @Html.ActionLink("返回首頁", "Index", "Home", null, new { @class = "btn btn-primary" })
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

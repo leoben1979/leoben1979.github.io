@@ -1,0 +1,78 @@
+﻿@model IEnumerable<JiaYu.Models.Member>
+
+@{
+    ViewBag.Title = "使用者列表";
+}
+
+<br /><br /><br />
+<p>
+    @Html.ActionLink("新增記錄", "Create", "User", null, new {@class="btn btn-success"})
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.user_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.email)
+        </th>
+       
+        <th>
+            @Html.DisplayNameFor(model => model.id_number)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.m_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sex)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.birthday)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.telephone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cellphone)
+        </th>
+       
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <th>
+            @Html.DisplayFor(modelItem => item.user_id)
+        </th>
+        <td>
+            @Html.DisplayFor(modelItem => item.email)
+        </td>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.id_number)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.m_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.sex)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.birthday)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.telephone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cellphone)
+        </td>
+       
+        <td>
+            @Html.ActionLink("修改", "Edit","User", new { uid=item.user_id },new {@class="btn btn-primary"}) |
+           
+            @Html.ActionLink("刪除", "Delete", "User", new { uid=item.user_id }, new { @class = "btn btn-warning", onclick="return confirm('是否確定刪除')" })
+        </td>
+    </tr>
+}
+
+</table>

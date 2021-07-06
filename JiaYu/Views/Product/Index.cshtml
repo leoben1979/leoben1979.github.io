@@ -1,0 +1,87 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+
+@model IEnumerable<JiaYu.Models.Product>
+
+@{
+    ViewBag.Title = "產品管理";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div>
+    @using (Html.BeginForm("Search", "Product", FormMethod.Post, new { id = "SearchForm" }))
+    {
+        <table>
+            <tr>
+                <td><label class="form-label" for="searchText">產品查詢：</label></td>
+                <td style="width:200px;">
+                    <input type="search" id="searchText" name="searchText" class="form-control" />
+                </td>
+                <td style="width:100px;">
+                    <button type="submit" class="btn btn-primary">
+                        查詢
+                    </button>
+                </td>
+            </tr>
+        </table>
+    }
+</div>
+<table class="table">
+    <tr>
+        <th>
+            產品編號
+        </th>
+        <th>
+            產品名稱
+        </th>
+        <th>
+            分類名稱
+        </th>
+        <th>
+            記憶體
+        </th>
+        <th>
+            售價
+        </th>
+        <th>
+            瀏覽次數
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.pro_id
+            </td>
+            <td>
+                @item.pname
+            </td>
+            <td>
+                @item.categoryid
+            </td>
+            <td>
+                @item.memory
+            </td>
+            <td>
+                @item.price_sale
+            </td>
+          
+            <td>
+                @item.Browse_time
+            </td>
+
+            <td>
+                @Html.ActionLink("修改", "Edit", new { id = item.pro_id }, new { @class = "btn btn-primary" })
+                @Html.ActionLink("刪除", "Delete", new { id = item.pro_id }, new { @class = "btn btn-warning", onclick = "return confirm('是否確定刪除')" })
+
+            </td>
+        </tr>
+    }
+
+</table>
+
+@Html.PagedListPager((IPagedList)Model, x => Url.Action("index", new { page = x }))
+
+

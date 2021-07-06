@@ -1,0 +1,71 @@
+﻿@model IEnumerable<JiaYu.Models.ViewModel.UncloseViewModel>
+
+@{
+    if (UserAccount.UserCode == 0)
+    { ViewBag.Title = "會員訂單查詢 / 未結訂單查詢"; }
+    else
+    { ViewBag.Title = "會員訂單查詢 / 歷史訂單查詢"; }
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+
+<div style="width:100%; margin:0 auto" class="tablecontainer">
+    <table id="DatatableList" class="table table-bordered  display dt-responsive nowrap">
+        <thead>
+            <tr>
+
+                <th>訂單編號</th>
+                <th>訂單日期</th>
+                <th>訂單狀態</th>
+                <th>會員姓名</th>
+                <th>付款方式</th>
+                <th>運送方式</th>
+                <th></th>
+
+
+            </tr>
+        </thead>
+
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                @* @Html.DisplayFor(modelItem => item.rowid); *@
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.order_no)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.order_date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.status_name)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.user_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.payment_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.shipping_name)
+                </td>
+                <td>
+                    <a title="訂單明細" href="/Orders/Details/@item.rowid"><i class="fas fa-list fa-2x"></i></a>
+                    @if (UserAccount.UserCode == 0)
+                    {
+                        <a class="popup" title="狀態變更" href="/Orders/ChangeStatus/@item.rowid"><i class="fas fa-exchange-alt fa-2x"></i></a>
+                    }
+
+                </td>
+
+
+            </tr>
+
+        }
+
+    </table>
+</div>

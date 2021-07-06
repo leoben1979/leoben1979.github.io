@@ -1,0 +1,145 @@
+﻿@model JiaYu.Models.Member
+
+@{
+    ViewBag.Title = "會員資料修改";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    List<SelectListItem> GenderList = new List<SelectListItem>();
+    using (ListItemViewModel list = new ListItemViewModel())
+    {
+        GenderList = list.GenderList;
+    }
+}
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <!--/ Services Star /-->
+        <section class="section-services section-t8">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="title-wrap d-flex justify-content-between">
+                            <div class="title-box">
+                                
+                            </div>
+                            @if (TempData["message"] != null)
+                            {
+                                <div id="msgbox1" style="background: lightcoral;height: 50px;width: 200px;line-height: 50px;margin: 0 auto;color: white;"></div>
+                                <script>
+                                    function Fun(str) {
+                                       $("#msgbox1").html(str);
+                                       $("#msgbox1").delay(3000).fadeOut('fast');
+                                    }
+                                    var str = @Html.Raw(Json.Encode(TempData["message"]));
+                                    Fun(str);
+                                </script>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-8 offset-md-2">
+
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        @Html.HiddenFor(model => model.user_id)
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.user_id, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                               
+                                @Html.DisplayTextFor(model => model.user_id)
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.m_name, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.m_name, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.m_name, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.id_number, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.id_number, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.id_number, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.sex, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.DropDownList("sex", GenderList, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.sex, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.birthday, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(model => model.birthday, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+                                @Html.ValidationMessageFor(model => model.birthday, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <font color="red">(*)</font>@Html.LabelFor(model => model.email, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.telephone, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.telephone, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.telephone, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.cellphone, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.cellphone, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.cellphone, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.address, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.address, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.address, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.verify, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                <div class="checkbox">
+                                    @Html.EditorFor(model => model.verify)
+                                    @Html.ValidationMessageFor(model => model.verify, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.reg_date, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.reg_date, new { htmlAttributes = new { @class = "form-control", @disabled = "disabled" } })
+                                @Html.ValidationMessageFor(model => model.reg_date, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" value="儲存" class="btn btn-primary" />
+                                @Html.ActionLink("回首頁", "Index", "Home", null, new { @class = "btn btn-success" })
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--/ Services End /-->
+    }
+

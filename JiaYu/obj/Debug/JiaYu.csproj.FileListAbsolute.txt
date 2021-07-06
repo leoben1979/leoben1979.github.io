@@ -1,0 +1,483 @@
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\obj\Debug\JiaYu.csproj.CoreCompileInputs.cache
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\JiaYu.dll.config
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\JiaYu.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\JiaYu.pdb
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\csc.exe
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\csc.exe.config
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\csc.rsp
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\csi.exe
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\csi.exe.config
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\csi.rsp
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.AppContext.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Console.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.IO.Compression.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Net.Http.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.ValueTuple.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\vbc.exe
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\vbc.exe.config
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\vbc.rsp
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\VBCSCompiler.exe
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\Antlr3.Runtime.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\EntityFramework.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\EntityFramework.SqlServer.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\Newtonsoft.Json.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.Helpers.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.Mvc.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.Optimization.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.Razor.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.WebPages.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.WebPages.Razor.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\WebGrease.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\EntityFramework.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\EntityFramework.SqlServer.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.Helpers.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.Mvc.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.Optimization.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.Razor.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.WebPages.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\System.Web.WebPages.Razor.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\Newtonsoft.Json.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\Antlr3.Runtime.pdb
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\obj\Debug\JiaYu.csproj.CopyComplete
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\obj\Debug\JiaYu.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\obj\Debug\JiaYu.pdb
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\PagedList.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\PagedList.Mvc.dll
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\PagedList.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\bin\PagedList.Mvc.xml
+C:\Users\LIFEBOOK SH772\source\repos\JiaYu\JiaYu\obj\Debug\JiaYu.csprojAssemblyReference.cache
+D:\職訓專題\JiaYu-0602\JiaYu\bin\JiaYu.dll.config
+D:\職訓專題\JiaYu-0602\JiaYu\bin\JiaYu.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\JiaYu.pdb
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\csc.exe
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\csc.exe.config
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\csc.rsp
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\csi.exe
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\csi.exe.config
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\csi.rsp
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.Managed.Core.targets
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.AppContext.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Collections.Immutable.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Console.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Globalization.Calendars.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.IO.Compression.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.IO.FileSystem.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Net.Http.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Net.Sockets.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Reflection.Metadata.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.ValueTuple.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Xml.XPath.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\vbc.exe
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\vbc.exe.config
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\vbc.rsp
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\VBCSCompiler.exe
+D:\職訓專題\JiaYu-0602\JiaYu\bin\roslyn\VBCSCompiler.exe.config
+D:\職訓專題\JiaYu-0602\JiaYu\bin\Antlr3.Runtime.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\EntityFramework.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\EntityFramework.SqlServer.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\Microsoft.Web.Infrastructure.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\Newtonsoft.Json.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\PagedList.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\PagedList.Mvc.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.Helpers.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.Mvc.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.Optimization.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.Razor.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.WebPages.Deployment.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.WebPages.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.WebPages.Razor.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\WebGrease.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\EntityFramework.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\EntityFramework.SqlServer.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\PagedList.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\PagedList.Mvc.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.Helpers.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.Mvc.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.Optimization.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.Razor.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.WebPages.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.WebPages.Deployment.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\System.Web.WebPages.Razor.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\Newtonsoft.Json.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\Antlr3.Runtime.pdb
+D:\職訓專題\JiaYu-0602\JiaYu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\職訓專題\JiaYu-0602\JiaYu\bin\zh-Hant\EntityFramework.resources.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\職訓專題\JiaYu-0602\JiaYu\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\職訓專題\JiaYu-0602\JiaYu\obj\Debug\JiaYu.csprojAssemblyReference.cache
+D:\職訓專題\JiaYu-0602\JiaYu\obj\Debug\JiaYu.csproj.CoreCompileInputs.cache
+D:\職訓專題\JiaYu-0602\JiaYu\obj\Debug\JiaYu.csproj.CopyComplete
+D:\職訓專題\JiaYu-0602\JiaYu\obj\Debug\JiaYu.dll
+D:\職訓專題\JiaYu-0602\JiaYu\obj\Debug\JiaYu.pdb
+D:\職訓專題\JiaYu-0603\JiaYu\bin\JiaYu.dll.config
+D:\職訓專題\JiaYu-0603\JiaYu\bin\JiaYu.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\JiaYu.pdb
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\csc.exe
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\csc.exe.config
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\csc.rsp
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\csi.exe
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\csi.exe.config
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\csi.rsp
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.Managed.Core.targets
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.AppContext.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Collections.Immutable.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Console.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Globalization.Calendars.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.IO.Compression.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.IO.FileSystem.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Net.Http.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Net.Sockets.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Reflection.Metadata.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.ValueTuple.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Xml.XPath.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\vbc.exe
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\vbc.exe.config
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\vbc.rsp
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\VBCSCompiler.exe
+D:\職訓專題\JiaYu-0603\JiaYu\bin\roslyn\VBCSCompiler.exe.config
+D:\職訓專題\JiaYu-0603\JiaYu\bin\Antlr3.Runtime.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\EntityFramework.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\EntityFramework.SqlServer.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\Microsoft.Web.Infrastructure.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\Newtonsoft.Json.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\PagedList.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\PagedList.Mvc.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.Helpers.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.Mvc.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.Optimization.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.Razor.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.WebPages.Deployment.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.WebPages.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.WebPages.Razor.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\WebGrease.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\EntityFramework.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\EntityFramework.SqlServer.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\PagedList.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\PagedList.Mvc.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.Helpers.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.Mvc.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.Optimization.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.Razor.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.WebPages.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.WebPages.Deployment.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\System.Web.WebPages.Razor.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\Newtonsoft.Json.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\Antlr3.Runtime.pdb
+D:\職訓專題\JiaYu-0603\JiaYu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\職訓專題\JiaYu-0603\JiaYu\bin\zh-Hant\EntityFramework.resources.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\職訓專題\JiaYu-0603\JiaYu\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\職訓專題\JiaYu-0603\JiaYu\obj\Debug\JiaYu.csproj.CoreCompileInputs.cache
+D:\職訓專題\JiaYu-0603\JiaYu\obj\Debug\JiaYu.csproj.CopyComplete
+D:\職訓專題\JiaYu-0603\JiaYu\obj\Debug\JiaYu.dll
+D:\職訓專題\JiaYu-0603\JiaYu\obj\Debug\JiaYu.pdb
+D:\職訓專題\JiaYu-0603\JiaYu\bin\Notify.dll
+D:\職訓專題\JiaYu-0603\JiaYu\obj\Debug\JiaYu.csproj.AssemblyReference.cache
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\JiaYu.dll.config
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\JiaYu.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\JiaYu.pdb
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\csc.exe
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\csc.exe.config
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\csc.rsp
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\csi.exe
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\csi.exe.config
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\csi.rsp
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.AppContext.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Console.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.IO.Compression.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Net.Http.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Net.Sockets.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.ValueTuple.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\vbc.exe
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\vbc.exe.config
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\vbc.rsp
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\VBCSCompiler.exe
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\Antlr3.Runtime.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\EntityFramework.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\EntityFramework.SqlServer.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\Newtonsoft.Json.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\Notify.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\PagedList.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\PagedList.Mvc.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.Helpers.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.Mvc.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.Optimization.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.Razor.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.WebPages.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.WebPages.Razor.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\WebGrease.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\EntityFramework.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\EntityFramework.SqlServer.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\PagedList.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\PagedList.Mvc.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.Helpers.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.Mvc.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.Optimization.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.Razor.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.WebPages.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\System.Web.WebPages.Razor.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\Newtonsoft.Json.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\Antlr3.Runtime.pdb
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\obj\Debug\JiaYu.csproj.CoreCompileInputs.cache
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\obj\Debug\JiaYu.csproj.CopyComplete
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\obj\Debug\JiaYu.dll
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\obj\Debug\JiaYu.pdb
+C:\Users\chia\Documents\Visual Studio 2019\workspace\c#\2019\JiaYu\JiaYu\obj\Debug\JiaYu.csproj.AssemblyReference.cache
+D:\JiaYu\JiaYu\bin\JiaYu.dll.config
+D:\JiaYu\JiaYu\bin\JiaYu.dll
+D:\JiaYu\JiaYu\bin\JiaYu.pdb
+D:\JiaYu\JiaYu\bin\roslyn\csc.exe
+D:\JiaYu\JiaYu\bin\roslyn\csc.exe.config
+D:\JiaYu\JiaYu\bin\roslyn\csc.rsp
+D:\JiaYu\JiaYu\bin\roslyn\csi.exe
+D:\JiaYu\JiaYu\bin\roslyn\csi.exe.config
+D:\JiaYu\JiaYu\bin\roslyn\csi.rsp
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.Managed.Core.targets
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\JiaYu\JiaYu\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.AppContext.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Collections.Immutable.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Console.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Globalization.Calendars.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.IO.Compression.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.IO.FileSystem.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Net.Http.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Net.Sockets.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Reflection.Metadata.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.ValueTuple.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Xml.XPath.dll
+D:\JiaYu\JiaYu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\JiaYu\JiaYu\bin\roslyn\vbc.exe
+D:\JiaYu\JiaYu\bin\roslyn\vbc.exe.config
+D:\JiaYu\JiaYu\bin\roslyn\vbc.rsp
+D:\JiaYu\JiaYu\bin\roslyn\VBCSCompiler.exe
+D:\JiaYu\JiaYu\bin\roslyn\VBCSCompiler.exe.config
+D:\JiaYu\JiaYu\bin\Antlr3.Runtime.dll
+D:\JiaYu\JiaYu\bin\EntityFramework.dll
+D:\JiaYu\JiaYu\bin\EntityFramework.SqlServer.dll
+D:\JiaYu\JiaYu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\JiaYu\JiaYu\bin\Microsoft.Web.Infrastructure.dll
+D:\JiaYu\JiaYu\bin\Newtonsoft.Json.dll
+D:\JiaYu\JiaYu\bin\Notify.dll
+D:\JiaYu\JiaYu\bin\PagedList.dll
+D:\JiaYu\JiaYu\bin\PagedList.Mvc.dll
+D:\JiaYu\JiaYu\bin\System.Web.Helpers.dll
+D:\JiaYu\JiaYu\bin\System.Web.Mvc.dll
+D:\JiaYu\JiaYu\bin\System.Web.Optimization.dll
+D:\JiaYu\JiaYu\bin\System.Web.Razor.dll
+D:\JiaYu\JiaYu\bin\System.Web.WebPages.Deployment.dll
+D:\JiaYu\JiaYu\bin\System.Web.WebPages.dll
+D:\JiaYu\JiaYu\bin\System.Web.WebPages.Razor.dll
+D:\JiaYu\JiaYu\bin\WebGrease.dll
+D:\JiaYu\JiaYu\bin\EntityFramework.xml
+D:\JiaYu\JiaYu\bin\EntityFramework.SqlServer.xml
+D:\JiaYu\JiaYu\bin\PagedList.xml
+D:\JiaYu\JiaYu\bin\PagedList.Mvc.xml
+D:\JiaYu\JiaYu\bin\System.Web.Helpers.xml
+D:\JiaYu\JiaYu\bin\System.Web.Mvc.xml
+D:\JiaYu\JiaYu\bin\System.Web.Optimization.xml
+D:\JiaYu\JiaYu\bin\System.Web.Razor.xml
+D:\JiaYu\JiaYu\bin\System.Web.WebPages.xml
+D:\JiaYu\JiaYu\bin\System.Web.WebPages.Deployment.xml
+D:\JiaYu\JiaYu\bin\System.Web.WebPages.Razor.xml
+D:\JiaYu\JiaYu\bin\Newtonsoft.Json.xml
+D:\JiaYu\JiaYu\bin\Antlr3.Runtime.pdb
+D:\JiaYu\JiaYu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\JiaYu\JiaYu\bin\zh-Hant\EntityFramework.resources.dll
+D:\JiaYu\JiaYu\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\JiaYu\JiaYu\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\JiaYu\JiaYu\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\JiaYu\JiaYu\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\JiaYu\JiaYu\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\JiaYu\JiaYu\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\JiaYu\JiaYu\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\JiaYu\JiaYu\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\JiaYu\JiaYu\obj\Debug\JiaYu.csprojAssemblyReference.cache
+D:\JiaYu\JiaYu\obj\Debug\JiaYu.csproj.CoreCompileInputs.cache
+D:\JiaYu\JiaYu\obj\Debug\JiaYu.csproj.CopyComplete
+D:\JiaYu\JiaYu\obj\Debug\JiaYu.dll
+D:\JiaYu\JiaYu\obj\Debug\JiaYu.pdb

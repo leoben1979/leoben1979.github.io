@@ -1,0 +1,45 @@
+﻿@model IEnumerable<JiaYu.Models.ViewModel.CategoryProductViewModel>
+
+@{
+    ViewBag.Title = "產品列表";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<p><br /><p><br />
+<p><br /><p>
+    <br />
+    <h2 class="text-center text-primary">產品列表</h2>
+    <section class="content">
+        <section class="card">
+            <div class="card-body">
+                <div class="row">
+                    @if (@TempData["message"] != null)
+                    {
+                        @TempData["message"]
+                    }
+                    else
+                    {
+                        foreach (var item in Model)
+                        {
+
+                            <div class="col-xs-8 col-md-6 col-lg-4">
+                                <a href="@Url.Action("ProductDetails","Home", new { id = item.pro_id})" class="col-xs-12 cont-list" title="@item.pname">
+                                    <div class="col-xs-12 cont-bd" style="border:1px solid;">
+                                        <img src="@Url.Content("~/Images/Product/" + @item.filename+ "")" alt="…" class="img-responsive cont-img" width="210" loading="lazy">
+                                        <h4 class="col-xs-12">@item.pname</h4>
+                                        <h5 class="col-xs-12">@item.spec</h5>
+                                        <span class="price" style="font-size: 20px;">網路價：@string.Format("{0:N0}", item.price_sale)元</span>
+                                    </div>
+                                </a>
+                            </div>
+
+
+
+                        }
+                    }
+                </div>
+            </div>
+        </section>
+    </section>
+
+
